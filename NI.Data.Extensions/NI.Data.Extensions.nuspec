@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>NI.Data.Extensions</id>
+    <version>1.0.0</version>
+    <title>NI.Data.Extensions</title>
+    <authors>Oleksandr Vynnychenko, Oleksii Vynnychenko</authors>
+    <owners>Oleksii Vynnychenko</owners>
+    <licenseUrl>http://github.com/oleksii-vynnychenko/NI.Data.Extensions/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/oleksii-vynnychenko/NI.Data.Extensions</projectUrl>
+    <!--<iconUrl>http://ICON_URL_HERE_OR_DELETE_THIS_LINE</iconUrl>-->
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>NI.Data Extensions</description>
+    <releaseNotes>Initial release</releaseNotes>
+    <copyright>Copyright 2017</copyright>
+    <tags>NI.Data ORM Extensions</tags>
+  </metadata>
+</package>
